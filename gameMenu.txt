@@ -1,0 +1,7 @@
+Welcome to the Math Game!
+
+What would you like to do?
+
+1)Play Game
+2)Exit Game
+3)Game Results
